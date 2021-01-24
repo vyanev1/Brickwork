@@ -41,19 +41,14 @@ exceeding 100.
 
 ### Output:
 
-Write N lines with M numbers each that describe the layout of the second layer in the way
-shown above
-
-### Assessment
 1. If the solution exists, write N lines with M numbers each that describe the layout of
 the second layer in the way shown above.
 2. Print output `-1` with a message that no solution exists.
 3. Validations - N and M should define a valid area of less than 100 lines/ columns.
 Validate input has exactly that number of rows and columns. Validate there are no
 bricks spanning 3 rows/ columns.
-4. Add comments on each class, method, and instantiated variable.
-5. Surround each brick of the second layer with asterisk and/ or dash symbols - `*`
-and/ or `-`. There should be a single line of symbols between two bricks.
+5. Each brick of the second layer is surrounded with asterisk and/ or dash symbols - `*`
+and/ or `-`. There is a single line of symbols between two bricks.
 
 ### Example 1
 
