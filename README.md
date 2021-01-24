@@ -36,9 +36,7 @@ and length).
 2. Then, add a single value separated by a space for each line N and following
 column M describing the bricks layout in the first layer.\
 NOTE: Each brick is marked with two equal numbers written in the squares of the
-area that are covered by this brick. All bricks are marked with whole numbers
-MentorMate, Inc. © All Rights Reserved & Confidential
-ranging from 1 to the total number of the bricks. M and N are even numbers not
+area that are covered by this brick. All bricks are marked with whole numbers ranging from 1 to the total number of the bricks. M and N are even numbers not
 exceeding 100.
 
 ### Output:
